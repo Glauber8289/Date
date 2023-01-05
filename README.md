@@ -1,6 +1,6 @@
 # Date
 
-O intuito deste repositoio foi treinar as difentes  formas para se manipular as datas utilizando as classes :
+O intuito deste repositorio foi treinar as difentes  formas para se manipular as datas utilizando as classes :
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
