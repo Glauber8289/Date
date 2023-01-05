@@ -1,6 +1,10 @@
 # Date
 
-O intuito deste repositoio foi treinar as dife formass  para se manipular a classe java.time.Instant         
+O intuito deste repositoio foi treinar as difentes  formas para se manipular as datas utilizando as classes :
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
+import java.time.format.DateTimeFormatter;      
 
 Neste  reposito eu mostrei  como :   
 1º Como instanciar data e hora em java, 
